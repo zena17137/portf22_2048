@@ -1,0 +1,18 @@
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	width: 400px;
+	height: 400px;
+	background: cornflowerblue;
+}
+
+.grid div {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	font: optional;
+	font-size: 60px;
+	text-align: center;
+	font-weight: 800;
+	font-family: Arial, sans-serif;
+}
